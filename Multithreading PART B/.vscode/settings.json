@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "glthread.h": "c",
+    "assert.h": "c"
+  }
+}
